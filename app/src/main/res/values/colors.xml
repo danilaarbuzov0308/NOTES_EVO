@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DBB623</color>
+    <color name="colorPrimaryDark">#F0C379</color>
+    <color name="colorAccent">#F0C379</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="delimeterColor">#C7C7C7</color>
+    <color name="date_time">#4B4A4A</color>
+</resources>

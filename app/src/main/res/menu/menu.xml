@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/delete_all_notes"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Delete All Notes"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/sort"
+        android:icon="@drawable/ic_sort"
+        android:title="Sort All Notes"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/addNote"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add Note"
+        app:showAsAction="always" />
+</menu>
